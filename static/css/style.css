@@ -44,3 +44,24 @@ body{
   margin-top: -0.2em;
   margin-bottom: 0em;
 }
+
+.project{
+  border: 3px solid #343a40;
+  border-radius: 25px;
+  padding: 8px 12px 18px 12px;
+  margin-bottom: 25px
+}
+
+.body-col a:link{
+  color: #0000ff;
+}
+
+.body-col a:active{
+  color: #0000ff;
+}
+.body-col a:visited{
+  color: #0000ff;
+}
+.body-col a:hover{
+  color: #0000ff;
+}
