@@ -1,2 +1,2 @@
 # kencole.github.io
-Check out the site [here](https://www.kencole.github.io)
+Check out the site [here](https://kencole.github.io/)
