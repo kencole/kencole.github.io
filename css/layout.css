@@ -269,6 +269,12 @@ ul#nav li.current a { color: #F06000; }
 .education p span {
     color: #000 !important;
 }
+.work p span {
+    color: #000 !important;
+}
+.skills span {
+    color: #000 !important;
+}
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
    color: #6E7881;
