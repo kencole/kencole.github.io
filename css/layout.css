@@ -335,61 +335,100 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .python {
-  	width: 85%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+   width: 85%;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
 }
-.java {
-  	width: 70%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.cpp {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.css {
-  	width: 45%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-
 
 @-moz-keyframes python {
   0%   { width: 0px;  }
   100% { width: 85%;  }
-}
-@-moz-keyframes java {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
-}
-@-moz-keyframes cpp {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 45%;  }
 }
 
 @-webkit-keyframes python {
   0%   { width: 0px;  }
   100% { width: 85%;  }
 }
+
+.java {
+   width: 70%;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
+}
+
+@-moz-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+
 @-webkit-keyframes java {
   0%   { width: 0px;  }
   100% { width: 70%;  }
 }
+
+.cpp {
+   width: 55%;
+   -moz-animation: cpp 2s ease;
+   -webkit-animation: cpp 2s ease;
+}
+
+@-moz-keyframes cpp {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+
 @-webkit-keyframes cpp {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
+
+.css {
+   width: 45%;
+   -moz-animation: css 2s ease;
+   -webkit-animation: css 2s ease;
+}
+
+@-moz-keyframes css {
+  0%   { width: 0px;  }
+  100% { width: 45%;  }
+}
+
 @-webkit-keyframes css {
   0%   { width: 0px;  }
   100% { width: 45%;  }
 }
 
+.php {
+   width: 55%;
+   -moz-animation: php 2s ease;
+   -webkit-animation: php 2s ease;
+}
+
+@-moz-keyframes php {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+
+@-webkit-keyframes php {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
+
+.ai {
+   width: 65%;
+   -moz-animation: ai 2s ease;
+   -webkit-animation: ai 2s ease;
+}
+
+@-moz-keyframes ai {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+
+@-webkit-keyframes ai {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
